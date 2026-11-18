@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://username-anda.github.io/djoni-bor/sitemap.xml
+Sitemap: https://djoni-bor.github.io/djoni-bor/sitemap.xml
